@@ -1,7 +1,8 @@
 # htmllinkparser
 Html Link parser
 
-Go Example for Html Parsing
+Example for Html Parsing in Go lang
+
 Problem statement was taken from https://gophercises.com/
 
 
